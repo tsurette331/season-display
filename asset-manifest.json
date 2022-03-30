@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/season-display/static/css/main.898c9a0b.css",
+    "main.js": "/season-display/static/js/main.d251ddde.js",
+    "index.html": "/season-display/index.html",
+    "main.898c9a0b.css.map": "/season-display/static/css/main.898c9a0b.css.map",
+    "main.d251ddde.js.map": "/season-display/static/js/main.d251ddde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898c9a0b.css",
+    "static/js/main.d251ddde.js"
+  ]
+}
